@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![thatflav_logo](https://github.com/thatflav/thatflav/blob/main/thatflav.png?raw=true)
+
 <!--
 **thatflav/thatflav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
