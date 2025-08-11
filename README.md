@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="thatflav banner" width="100%" />
+  <img src="./thatflav.png" alt="thatflav banner" width="100%" />
 </p>
 
 <h1 align="center">Hey, I'm Flavius 👋</h1>
