@@ -30,12 +30,21 @@
 ---
 
 ### 🚀 Featured Projects
-- **[Document Action Guard](https://github.com/thatflav/document-action-guard)** — Shared context to safely manage document actions across multiple modules.  
-  *React · TypeScript · AbortController*
-- **[UI Performance Toolkit](https://github.com/thatflav/ui-performance-toolkit)** — CLI + utilities to measure & improve Core Web Vitals in CI.  
-  *Vite · Playwright · Lighthouse*
-- **[Parts Finder](https://github.com/thatflav/parts-finder)** — Auto parts search with VIN decoding and supplier aggregation.  
-  *Next.js · API*
+
+**Enterprise Recruitment Platform Frontend** — Led the frontend development for a large-scale recruitment platform serving multiple international markets. Implemented scalable React architecture, performance optimisations, advanced MUI UI patterns, and robust CI/CD pipelines.  
+`React` · `TypeScript` · `Vite` · `MUI` · `Vitest` · `React Testing Library`
+
+**[Infinity Scroll](https://affectionate-noether-8b8085.netlify.app/)** — Dynamically loads and displays images from an API as the user scrolls, with performance-friendly lazy loading.  
+`JavaScript` · `HTML` · `CSS` · [GitHub Repo](https://github.com/thatflav/infinity-scroll)
+
+**[Travel Site](https://jovial-swanson-b11569.netlify.app/)** — A visually engaging multi-page travel website with responsive layouts and smooth animations.  
+`HTML` · `CSS` · `JavaScript` · [GitHub Repo](https://github.com/thatflav/travel-site)
+
+**[Joke Teller](https://keen-wescoff-3bd01f.netlify.app/)** — Fetches jokes from an API and uses text-to-speech for an interactive experience.  
+`JavaScript` · `HTML` · `CSS` · [GitHub Repo](https://github.com/thatflav/joke-teller)
+
+**[Picture-in-Picture](https://cranky-shaw-e4cae0.netlify.app/)** — Enables video Picture-in-Picture mode for a custom viewing experience.  
+`JavaScript` · `HTML` · `CSS` · [GitHub Repo](https://github.com/thatflav/picture-in-picture)
 
 ---
 
