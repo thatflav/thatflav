@@ -40,32 +40,28 @@ Led the frontend development for a large-scale recruitment platform serving mult
 **Infinity Scroll**  
 Dynamically loads and displays images from an API as the user scrolls, with performance-friendly lazy loading.  
 `JavaScript` · `HTML` · `CSS`  
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C853?style=flat&logo=netlify&logoColor=white)](https://affectionate-noether-8b8085.netlify.app/)  
-[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/thatflav/infinity-scroll)
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C853?style=flat&logo=netlify&logoColor=white)](https://affectionate-noether-8b8085.netlify.app/) · [![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/thatflav/infinity-scroll)
 
 ---
 
 **Travel Site**  
 A visually engaging multi-page travel website with responsive layouts and smooth animations.  
 `HTML` · `CSS` · `JavaScript`  
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C853?style=flat&logo=netlify&logoColor=white)](https://jovial-swanson-b11569.netlify.app/)  
-[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/thatflav/travel-site)
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C853?style=flat&logo=netlify&logoColor=white)](https://jovial-swanson-b11569.netlify.app/) · [![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/thatflav/travel-site)
 
 ---
 
 **Joke Teller**  
 Fetches jokes from an API and uses text-to-speech for an interactive experience.  
 `JavaScript` · `HTML` · `CSS`  
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C853?style=flat&logo=netlify&logoColor=white)](https://keen-wescoff-3bd01f.netlify.app/)  
-[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/thatflav/joke-teller)
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C853?style=flat&logo=netlify&logoColor=white)](https://keen-wescoff-3bd01f.netlify.app/) · [![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/thatflav/joke-teller)
 
 ---
 
 **Picture-in-Picture**  
 Enables video Picture-in-Picture mode for a custom viewing experience.  
 `JavaScript` · `HTML` · `CSS`  
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C853?style=flat&logo=netlify&logoColor=white)](https://cranky-shaw-e4cae0.netlify.app/)  
-[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/thatflav/picture-in-picture)
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C853?style=flat&logo=netlify&logoColor=white)](https://cranky-shaw-e4cae0.netlify.app/) · [![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/thatflav/picture-in-picture)
 
 ---
 
