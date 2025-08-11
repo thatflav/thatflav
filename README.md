@@ -13,10 +13,10 @@
 ---
 
 ### 📌 About Me
-- 💻 **Senior Frontend Developer** (5+ years) specialising in **React**, **TypeScript**, and **MUI**, building enterprise‑scale PWAs with **Vite**.
-- 🧩 I design **reliable, maintainable interfaces** with clean architecture, safe interaction flows, and solid error handling.
-- ⚡ **Performance‑first**: Core Web Vitals, code‑splitting, bundle analysis, HTTP compression, and efficient asset delivery.
-- 🧪 **Quality & DX**: Vitest + Testing Library, ESLint + Prettier, Husky & lint‑staged, type‑safe APIs via OpenAPI codegen, and CI quality gates.
+ 💻 **Senior Frontend Developer** (5+ years) specialising in **React**, **TypeScript**, and **MUI**, building enterprise‑scale PWAs with **Vite**.
+ 🧩 I design **reliable, maintainable interfaces** with clean architecture, safe interaction flows, and solid error handling.
+ ⚡ **Performance‑first**: Core Web Vitals, code‑splitting, bundle analysis, HTTP compression, and efficient asset delivery.
+ 🧪 **Quality & DX**: Vitest + Testing Library, ESLint + Prettier, Husky & lint‑staged, type‑safe APIs via OpenAPI codegen, and CI quality gates.
 
 ---
 
@@ -31,20 +31,41 @@
 
 ### 🚀 Featured Projects
 
-**Enterprise Recruitment Platform Frontend** — Led the frontend development for a large-scale recruitment platform serving multiple international markets. Implemented scalable React architecture, performance optimisations, advanced MUI UI patterns, and robust CI/CD pipelines.  
+**Enterprise Recruitment Platform Frontend**  
+Led the frontend development for a large-scale recruitment platform serving multiple international markets. Implemented scalable React architecture, performance optimisations, advanced MUI UI patterns, and robust CI/CD pipelines.  
 `React` · `TypeScript` · `Vite` · `MUI` · `Vitest` · `React Testing Library`
 
-**[Infinity Scroll](https://affectionate-noether-8b8085.netlify.app/)** — Dynamically loads and displays images from an API as the user scrolls, with performance-friendly lazy loading.  
-`JavaScript` · `HTML` · `CSS` · [GitHub Repo](https://github.com/thatflav/infinity-scroll)
+---
 
-**[Travel Site](https://jovial-swanson-b11569.netlify.app/)** — A visually engaging multi-page travel website with responsive layouts and smooth animations.  
-`HTML` · `CSS` · `JavaScript` · [GitHub Repo](https://github.com/thatflav/travel-site)
+**Infinity Scroll**  
+Dynamically loads and displays images from an API as the user scrolls, with performance-friendly lazy loading.  
+`JavaScript` · `HTML` · `CSS`  
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C853?style=flat&logo=netlify&logoColor=white)](https://affectionate-noether-8b8085.netlify.app/)  
+[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/thatflav/infinity-scroll)
 
-**[Joke Teller](https://keen-wescoff-3bd01f.netlify.app/)** — Fetches jokes from an API and uses text-to-speech for an interactive experience.  
-`JavaScript` · `HTML` · `CSS` · [GitHub Repo](https://github.com/thatflav/joke-teller)
+---
 
-**[Picture-in-Picture](https://cranky-shaw-e4cae0.netlify.app/)** — Enables video Picture-in-Picture mode for a custom viewing experience.  
-`JavaScript` · `HTML` · `CSS` · [GitHub Repo](https://github.com/thatflav/picture-in-picture)
+**Travel Site**  
+A visually engaging multi-page travel website with responsive layouts and smooth animations.  
+`HTML` · `CSS` · `JavaScript`  
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C853?style=flat&logo=netlify&logoColor=white)](https://jovial-swanson-b11569.netlify.app/)  
+[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/thatflav/travel-site)
+
+---
+
+**Joke Teller**  
+Fetches jokes from an API and uses text-to-speech for an interactive experience.  
+`JavaScript` · `HTML` · `CSS`  
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C853?style=flat&logo=netlify&logoColor=white)](https://keen-wescoff-3bd01f.netlify.app/)  
+[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/thatflav/joke-teller)
+
+---
+
+**Picture-in-Picture**  
+Enables video Picture-in-Picture mode for a custom viewing experience.  
+`JavaScript` · `HTML` · `CSS`  
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C853?style=flat&logo=netlify&logoColor=white)](https://cranky-shaw-e4cae0.netlify.app/)  
+[![GitHub Repo](https://img.shields.io/badge/-GitHub%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/thatflav/picture-in-picture)
 
 ---
 
